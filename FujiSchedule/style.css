@@ -13,7 +13,7 @@
     .bgimg {
       background-position: center;
       background-size: cover;
-      background-image: url("/FujiSchedule/img/fuji-header.png");
+      background-image: url("FujiSchedule/img/fuji-header.PNG");
       min-height: 75%;
     }
 
