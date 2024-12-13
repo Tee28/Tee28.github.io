@@ -1,0 +1,90 @@
+   body,
+   html {
+      height: 100%;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+
+    ol,
+    p {
+      margin: 0;
+    }
+
+    .bgimg {
+      background-position: center;
+      background-size: cover;
+      background-image: url("img/fuji-header.PNG");
+      min-height: 75%;
+    }
+
+    .menu {
+      display: none;
+    }
+
+    .w3-text-white,
+    .w3-hover-text-white:hover {
+      text-shadow: 2px 2px 4px #000000;
+    }
+
+    .w3-grayscale {
+      filter: grayscale(10%);
+    }
+
+    .w3-panel {
+      margin-top: 0;
+      padding: 5px 0;
+    }
+
+    .small-title {
+      margin: 20px 0 5px 0;
+    }
+
+    a {
+      text-decoration: none;
+      color: blue;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    table,
+    th,
+    td {
+      border: 1px solid white;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      background-color: #96D4D4;
+    }
+    
+    .div-hotel {
+      padding: 18px;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      background-color: #2196F3;
+      padding: 1px;
+    }
+
+    .grid-item {
+      background-color: rgba(255, 255, 255, 0.8);
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 2px;
+      text-align: center;
+    }
+
+    .w3-btn,
+    .w3-button {
+      padding: 8px;
+    }
+
+    .w3-padding-44 {
+      padding-top: 44px !important;
+      padding-bottom: 10px !important;
+    }
+
